@@ -1,0 +1,13 @@
+Given an array arr[] sorted in ascending order of size N and an integer K. 
+Check if K is present in the array or not.
+
+Expected Time Complexity: O(Log N)
+Expected Auxiliary Space: O(1)
+
+ 
+
+Constraints:
+1 <= N <= 106
+1 <= K <= 106
+1 <= arr[i] <= 106
+
