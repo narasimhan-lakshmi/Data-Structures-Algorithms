@@ -1,0 +1,11 @@
+Given an array containing N integers and an integer K., 
+Your task is to find the length of the longest Sub-Array with the sum of the elements equal to the given value K.
+
+Expected Time Complexity: O(N).
+Expected Auxiliary Space: O(N).
+
+ 
+
+Constraints:
+1<=N<=105
+-105<=A[i], K<=105
